@@ -59,9 +59,9 @@ module.exports = {
 
     shortDescription: "GPT4",
 
-    credits: "cliff",
+    credits: "Juztin",
 
-    author: 'yazky',
+    author: 'Itachi',
 
     description: 'gpt4 response ',
 
