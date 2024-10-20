@@ -53,7 +53,7 @@ module.exports = {
 
     role: 0,
 
-    author: "cliff",
+    author: "Juztin",
 
     category: "scrape",
 
